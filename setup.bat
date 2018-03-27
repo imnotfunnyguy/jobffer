@@ -8,3 +8,9 @@ REM set USERNAME=$1
 
 git clone https://github.com/imnotfunnyguy/jobffer.git
 
+@call npm install -g cordova 
+
+@call npm install -g ionic
+
+
+
