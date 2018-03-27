@@ -1,0 +1,1 @@
+Please install nodejs and then run the setup script to setup up ionic.
